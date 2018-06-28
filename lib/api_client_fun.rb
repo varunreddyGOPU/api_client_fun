@@ -1,5 +1,7 @@
 require "api_client_fun/version"
 
 module ApiClientFun
-  # Your code goes here...
+  def self.profile_for_name(user_name)
+
+  end
 end
