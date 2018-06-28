@@ -18,3 +18,7 @@ Returns a list of users.
 2) https://blooming-savannah-20593.herokuapp.com/api/users/{id}
 
 Returns a specific user.
+
+Zip up your code and send it along to the email instructed.
+
+Have Fun!
