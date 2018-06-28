@@ -9,7 +9,7 @@ The API's root URL is:  https://blooming-savannah-20593.herokuapp.com/api/
 You are tasked with creating a method that takes a user's name and
 returns their profile.
 
-The api has two endpoints ,responds with JSON, and is unauthenticated.
+The api has two endpoints, responds with JSON, and is unauthenticated.
 
 1) https://blooming-savannah-20593.herokuapp.com/api/users
 
