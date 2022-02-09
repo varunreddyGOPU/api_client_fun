@@ -7,7 +7,7 @@ This is a basic ruby gem scaffold to create a **client** for call to an existing
 The API's you will need to call is located at:  https://blooming-savannah-20593.herokuapp.com/api/
 
 You are tasked with creating a **method** that takes a user's name and
-returns their profile.
+returns their profile.  This example scaffold is a ruby gem.
 
 The api has two endpoints, responds with JSON, and is unauthenticated.
 
