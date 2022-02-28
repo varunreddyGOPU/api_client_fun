@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is a basic ruby gem scaffold to create a **client** for call to an existing API endpoint.
+This is a basic ruby gem scaffold to create a **client** for call to an existing API endpoint.  You can use this scaffold or build one of your choosing.
 
 The API's you will need to call is located at:  https://blooming-savannah-20593.herokuapp.com/api/
 
